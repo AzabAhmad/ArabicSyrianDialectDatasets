@@ -1,7 +1,7 @@
 📖 Overview
 
 This dataset was developed for topic detection in Syrian Arabic Dialect. <br>
-Contains 6k posts collected from Facebook annotated into six categories (Balanced): <br>
+- It contains 6k posts collected from Facebook annotated into six categories (Balanced): <br>
 Real Estate , advertising and marketing, entertainment activities, Health, Sport, tv&cinema&art.
 
 📜 Citation
