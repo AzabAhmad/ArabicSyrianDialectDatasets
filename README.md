@@ -3,8 +3,7 @@ This repository contains datasets in Syrian Arabic Dialect, designed to support 
 
 Currently, two datasets are planned for release:
 
-- Syrian Dialect Topic Detection Dataset
-
-- ASASy: Sentiment Analysis Corpus of Syrian Dialect Facebook Posts
+- Arabic Topic Detection Dataset for Syrian Dialect
+- Sentiment Analysis Corpus of Syrian Dialect Facebook Posts (ASASy).
 
 Each dataset will be organized in a separate folder with its own documentation, description, and usage instructions.
